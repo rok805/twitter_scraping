@@ -1,4 +1,4 @@
-## twitter data scraping.
+## 트위터 데이터 수집 크롤러
 
-### scrape twitter data including specific word like bitcoin.
-#### you can scrape data in specific date too. it is processed by colab so it could be stopped suddenly we should care for this though.
+### 특정 단어를 포함하고 있는 트위터 데이터를 수집합니다.
+#### 원하는 특정 단어를 설정하고, 이와 관련된 데이터를 수집할 수 있습니다. 
